@@ -108,6 +108,8 @@ end
   end
   
   def play 
+    while over? == false 
+    turn 
     
   end
   
