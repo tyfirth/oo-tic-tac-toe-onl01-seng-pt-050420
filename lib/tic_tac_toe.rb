@@ -40,6 +40,7 @@ end
   end
   
   def turn 
+    puts "Enter 1 - 9"
     
   end
   
