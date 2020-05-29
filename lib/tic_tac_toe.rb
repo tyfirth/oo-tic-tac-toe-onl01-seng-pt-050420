@@ -32,7 +32,7 @@ end
   end
   
   def position_taken?(index_i)
-    
+    @board(index_i)
   end
 
   
