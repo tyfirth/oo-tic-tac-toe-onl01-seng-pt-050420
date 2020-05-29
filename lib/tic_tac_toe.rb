@@ -75,6 +75,7 @@ end
   else
     return nil 
   end
+  display_board
   end
   
 end
