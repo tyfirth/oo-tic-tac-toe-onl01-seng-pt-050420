@@ -120,3 +120,5 @@ end
   end
   
 end
+
+TicTacToe.play
