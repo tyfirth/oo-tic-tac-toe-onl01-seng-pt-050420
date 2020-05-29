@@ -70,4 +70,11 @@ end
     end
   end
   
+  def won?
+    if WIN_COMBINATIONS
+  else
+    return nil 
+  end
+  end
+  
 end
