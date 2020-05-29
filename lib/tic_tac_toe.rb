@@ -31,7 +31,7 @@ end
     @board[position] = token
   end
   
-  def position_taken
+  def position_taken?
     
   end
 
