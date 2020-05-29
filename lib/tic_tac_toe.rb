@@ -45,7 +45,7 @@ end
     index = input_to_index(input)
     token = current_player
       if valid_move(index)
-        move(position, token)
+        move(index, token)
       end
   end
   
