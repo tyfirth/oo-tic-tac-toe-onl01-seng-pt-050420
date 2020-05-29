@@ -43,9 +43,9 @@ end
     puts "Enter 1 - 9"
     input = gets.strip
     index = input_to_index(input)
-    token = current_player
+    char = current_player
       if valid_move?(index)
-        move(index, token)
+        move(index, char)
         display_board
       else 
         turn
