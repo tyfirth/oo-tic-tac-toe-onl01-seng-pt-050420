@@ -83,7 +83,7 @@ end
   end
   
   def full?
-    @board.all? 
+    @board.all? {|occupied| 
   end
   
 end
