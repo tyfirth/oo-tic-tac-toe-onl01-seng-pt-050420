@@ -103,6 +103,8 @@ end
         return "O"
       else
         nil 
+      end
+    end
   end
   
 end
