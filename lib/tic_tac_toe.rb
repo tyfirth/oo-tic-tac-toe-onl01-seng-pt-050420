@@ -53,6 +53,7 @@ end
   end
   
   def turn_count
+    turns = 0 
     
   end
   
