@@ -44,8 +44,8 @@ end
     input = gets.strip
     index = input_to_index(input)
     token = current_player
-      if 
-        
+      if valid_move(index)
+        move(position, token)
       end
   end
   
