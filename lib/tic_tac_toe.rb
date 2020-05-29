@@ -71,7 +71,8 @@ end
   end
   
   def won?
-   WIN_COMBINATIONS.each do 
+   WIN_COMBINATIONS.each do |win_combo|
+     if 
      
    end
   end
