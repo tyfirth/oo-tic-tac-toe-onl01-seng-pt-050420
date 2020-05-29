@@ -87,7 +87,7 @@ end
   end
   
   def draw?
-    if !WIN_COMBINATIONS && full? = true 
+     !(won?) && (full?) 
   end
   
 end
