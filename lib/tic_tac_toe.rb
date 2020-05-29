@@ -44,7 +44,9 @@ end
     input = gets.strip
     index = input_to_index(input)
     token = current_player
-    
+      if 
+        
+      end
   end
   
   
