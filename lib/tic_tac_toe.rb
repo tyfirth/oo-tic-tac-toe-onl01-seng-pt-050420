@@ -86,4 +86,8 @@ end
     @board.all? {|occupied| occupied != " "}
   end
   
+  def draw?
+    if !WIN_COMBINATIONS && full? = true 
+  end
+  
 end
