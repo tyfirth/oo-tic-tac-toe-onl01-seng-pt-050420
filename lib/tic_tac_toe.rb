@@ -43,6 +43,7 @@ end
     puts "Enter 1 - 9"
     input = gets.strip
     index = input_to_index(input)
+    token = 
   end
   
   
