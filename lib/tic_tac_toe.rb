@@ -54,7 +54,7 @@ end
   
   def turn_count
     turns = 0 
-    
+    @board.each {|space| 
   end
   
   
