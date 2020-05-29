@@ -71,11 +71,9 @@ end
   end
   
   def won?
-    if WIN_COMBINATIONS
-  else
-    return nil 
-  end
-  display_board
+   WIN_COMBINATIONS.each do 
+     
+   end
   end
   
 end
